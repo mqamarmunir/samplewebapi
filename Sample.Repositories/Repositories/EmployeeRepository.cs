@@ -9,15 +9,15 @@ using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 
-namespace CleanArchitecture.Test.Infrastructure.Persistence.Repository
+namespace Sample.Repositories
 {
     public class EmployeeRepositoryAsync : GenericRepositoryAsync<Employee>, IEmployeeRepository
     {
-        private readonly DbSet<Employee> _emplyees;
+        private readonly DbSet<Employee> _employees;
 
         public EmployeeRepositoryAsync(EmployeeDbContext dbContext) : base(dbContext)
         {
-            _emplyees = dbContext.Set<Employee>();
+            _employees = dbContext.Set<Employee>();
         }
     }
 }

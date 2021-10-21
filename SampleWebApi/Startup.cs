@@ -6,6 +6,7 @@ using Microsoft.Extensions.Configuration;
 using Microsoft.Extensions.DependencyInjection;
 using Microsoft.Extensions.Hosting;
 using Microsoft.Extensions.Logging;
+using Sample.Domain.Repositories;
 using Sample.Repositories;
 using System;
 using System.Collections.Generic;
@@ -28,6 +29,10 @@ namespace SampleWebApi
         {
             services.AddControllers();
             services.AddDbContext<EmployeeDbContext>();
+            #region Repositories
+            services.AddTransient(typeof(IGenericRepositoryAsync<>), typeof(GenericRepositoryAsync<>));
+            services.AddTransient<IEmployeeRepository, EmployeeRepositoryAsync>();
+            #endregion
         }
 
         // This method gets called by the runtime. Use this method to configure the HTTP request pipeline.
