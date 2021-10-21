@@ -1,0 +1,10 @@
+C:\Users\Muhammad Qamar\source\repos\SampleWebApi\Sample.Domain\bin\Debug\netcoreapp3.1\Sample.Domain.deps.json
+C:\Users\Muhammad Qamar\source\repos\SampleWebApi\Sample.Domain\bin\Debug\netcoreapp3.1\Sample.Domain.dll
+C:\Users\Muhammad Qamar\source\repos\SampleWebApi\Sample.Domain\bin\Debug\netcoreapp3.1\Sample.Domain.pdb
+C:\Users\Muhammad Qamar\source\repos\SampleWebApi\Sample.Domain\obj\Debug\netcoreapp3.1\Sample.Domain.csproj.AssemblyReference.cache
+C:\Users\Muhammad Qamar\source\repos\SampleWebApi\Sample.Domain\obj\Debug\netcoreapp3.1\Sample.Domain.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Muhammad Qamar\source\repos\SampleWebApi\Sample.Domain\obj\Debug\netcoreapp3.1\Sample.Domain.AssemblyInfoInputs.cache
+C:\Users\Muhammad Qamar\source\repos\SampleWebApi\Sample.Domain\obj\Debug\netcoreapp3.1\Sample.Domain.AssemblyInfo.cs
+C:\Users\Muhammad Qamar\source\repos\SampleWebApi\Sample.Domain\obj\Debug\netcoreapp3.1\Sample.Domain.csproj.CoreCompileInputs.cache
+C:\Users\Muhammad Qamar\source\repos\SampleWebApi\Sample.Domain\obj\Debug\netcoreapp3.1\Sample.Domain.dll
+C:\Users\Muhammad Qamar\source\repos\SampleWebApi\Sample.Domain\obj\Debug\netcoreapp3.1\Sample.Domain.pdb

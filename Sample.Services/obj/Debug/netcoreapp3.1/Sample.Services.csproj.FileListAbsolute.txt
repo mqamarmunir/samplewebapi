@@ -1,0 +1,12 @@
+C:\Users\Muhammad Qamar\source\repos\SampleWebApi\Sample.Services\bin\Debug\netcoreapp3.1\Sample.Services.deps.json
+C:\Users\Muhammad Qamar\source\repos\SampleWebApi\Sample.Services\bin\Debug\netcoreapp3.1\Sample.Services.dll
+C:\Users\Muhammad Qamar\source\repos\SampleWebApi\Sample.Services\bin\Debug\netcoreapp3.1\Sample.Services.pdb
+C:\Users\Muhammad Qamar\source\repos\SampleWebApi\Sample.Services\obj\Debug\netcoreapp3.1\Sample.Services.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Muhammad Qamar\source\repos\SampleWebApi\Sample.Services\obj\Debug\netcoreapp3.1\Sample.Services.AssemblyInfoInputs.cache
+C:\Users\Muhammad Qamar\source\repos\SampleWebApi\Sample.Services\obj\Debug\netcoreapp3.1\Sample.Services.AssemblyInfo.cs
+C:\Users\Muhammad Qamar\source\repos\SampleWebApi\Sample.Services\obj\Debug\netcoreapp3.1\Sample.Services.csproj.CoreCompileInputs.cache
+C:\Users\Muhammad Qamar\source\repos\SampleWebApi\Sample.Services\obj\Debug\netcoreapp3.1\Sample.Services.dll
+C:\Users\Muhammad Qamar\source\repos\SampleWebApi\Sample.Services\obj\Debug\netcoreapp3.1\Sample.Services.pdb
+C:\Users\Muhammad Qamar\source\repos\SampleWebApi\Sample.Services\bin\Debug\netcoreapp3.1\Sample.Domain.dll
+C:\Users\Muhammad Qamar\source\repos\SampleWebApi\Sample.Services\bin\Debug\netcoreapp3.1\Sample.Domain.pdb
+C:\Users\Muhammad Qamar\source\repos\SampleWebApi\Sample.Services\obj\Debug\netcoreapp3.1\Sample.Services.csproj.AssemblyReference.cache
